@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## Mwijay-Music-App-v2-
+> High-tier digital infrastructure and product development by **Altraware Technologies**.
 
-# Run and deploy your AI Studio app
+### 🚀 What is this?
+*The aadvanced moder music and reels player *
 
-This contains everything you need to run your app locally.
+### 🏢 Company
+Developed by the Altraware Technologies Team.
+*   **David Erick Mwijage** - Systems Architect
+*   **Clemence W. N'gunda** - Co-Founder
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JYAzTkDX4RiTBdwR-zuKqhenAVY0wCF2
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+### 📄 License
+This project is **proprietary** to Altraware Technologies. See [LICENSE](LICENSE) for more details.
